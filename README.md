@@ -2,6 +2,7 @@
 
 >Status do projeto: Em desenvolvimento
 
+Para rodar esse projeto você precisa 
 ```
-npm install react
+node app.js
 ````
